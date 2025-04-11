@@ -18,9 +18,17 @@ class AnalyticsScreen extends StatelessWidget {
           builder: (context, vpnProvider, child) {
             final connectionHistory = vpnProvider.connectionHistory;
             if (connectionHistory.isEmpty) {
-              return Text(
-                "Отсутствие соединение",
-                style: TextStyle(fontSize: 24.sp, fontWeight: FontWeight.bold),
+              return Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text(
+                    "Отсутствие соединение",
+                    style: TextStyle(
+                      fontSize: 20.sp,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ],
               );
             }
             return ListView.builder(
