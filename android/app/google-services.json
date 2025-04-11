@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119318200772",
+    "project_id": "vpnapp-a5fa5",
+    "storage_bucket": "vpnapp-a5fa5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119318200772:android:eb5a7c071baea27a4a2491",
+        "android_client_info": {
+          "package_name": "com.example.vpn_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATf386U79Q01r0wpOklEiDweQOQ2B8tYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

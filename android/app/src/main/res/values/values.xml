@@ -1,0 +1,8 @@
+<resources>
+    <string name="default_web_client_id">1:119318200772:android:eb5a7c071baea27a4a2491</string>
+    <string name="google_api_key">AIzaSyATf386U79Q01r0wpOklEiDweQOQ2B8tYA</string>
+    <string name="firebase_database_url">https://vpnapp-a5fa5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">119318200772</string>
+    <string name="google_app_id">1:119318200772:android:eb5a7c071baea27a4a2491</string>
+    <string name="firebase_storage_bucket">vpnapp-a5fa5.appspot.com</string>
+</resources>
